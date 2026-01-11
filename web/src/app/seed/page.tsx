@@ -1,5 +1,5 @@
 import { Suspense } from "react";
-import SeedClient from "./SeedClient";
+import SeedClient from "./seedClient";
 
 export default function SeedPage() {
   return (
